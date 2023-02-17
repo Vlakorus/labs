@@ -8,4 +8,5 @@ fun main() {
     val side = sqrt(square.toDouble())
     if (side > diametr) println("Круг поместится") else
         println ("Круг не поместится")
+    println ("Круг не поместится")
 }
